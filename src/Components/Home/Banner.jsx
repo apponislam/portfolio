@@ -13,7 +13,9 @@ const Banner = () => {
                     <p>
                         MERN Stack Developer specializes in building web applications using MongoDB, <br className="hidden xl:block" /> Express.js, React, and Node.js. They possess foundational skills in front-end and <br className="hidden xl:block" /> back-end development, creating responsive user interfaces, and managing <br className="hidden xl:block" /> server-side logic and database operations
                     </p>
-                    <p className="btn rounded-none p-3 px-6 mt-4 bg-transparent text-white hover:bg-white hover:text-black">Download CV</p>
+                    <a href="../src/assets/CV.pdf" target="_blank">
+                        <p className="btn rounded-none p-3 px-6 mt-4 bg-transparent text-white hover:bg-white hover:text-black">Download CV</p>
+                    </a>
                 </div>
             </div>
         </div>
