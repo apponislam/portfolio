@@ -1,6 +1,6 @@
 const Projects = () => {
     return (
-        <div className="container mx-auto">
+        <div id="projects" className="container mx-auto">
             <div className="my-20">
                 <h1 className="text-3xl mb-10 text-center">Projects</h1>
 
