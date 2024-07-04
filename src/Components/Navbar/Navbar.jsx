@@ -1,13 +1,17 @@
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
+    const scrollToSection = (id) => {
+        document.getElementById(id).scrollIntoView({ behavior: "smooth" });
+    };
+
     const navlinks = (
         <>
             <li>
-                <Link>Home</Link>
+                <Link to="/">Home</Link>
             </li>
             <li>
-                <Link>Home</Link>
+                <Link onClick={() => scrollToSection("experiencesection")}>Experience</Link>
             </li>
             <li>
                 <Link>Home</Link>
