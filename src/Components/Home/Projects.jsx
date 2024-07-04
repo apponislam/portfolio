@@ -4,7 +4,7 @@ const Projects = () => {
             <div className="my-20">
                 <h1 className="text-3xl mb-10 text-center">Projects</h1>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-3">
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-3 mx-3 xl:mx-0">
                     <div className="border border-[#00203f] p-2 rounded-xl flex flex-col">
                         <img className="w-full h-64 mb-3" src="../src/assets/project1.png" alt="" />
                         <p className="mb-3">

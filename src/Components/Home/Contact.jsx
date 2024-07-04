@@ -4,9 +4,9 @@ const Contact = () => {
             <div className="py-12">
                 <h1 className="text-3xl text-center mb-10">Contact Us</h1>
                 <div className="flex items-center justify-center">
-                    <div className="w-1/2">
+                    <div className="md:w-1/2 w-full mx-3 md:mx-0">
                         <form>
-                            <div className="grid grid-cols-2 gap-3 mb-3">
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mb-3">
                                 <label className="input input-bordered flex items-center gap-2">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" className="h-4 w-4 opacity-70">
                                         <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM12.735 14c.618 0 1.093-.561.872-1.139a6.002 6.002 0 0 0-11.215 0c-.22.578.254 1.139.872 1.139h9.47Z" />
