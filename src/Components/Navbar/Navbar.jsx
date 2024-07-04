@@ -17,7 +17,7 @@ const Navbar = () => {
                 <Link>Home</Link>
             </li>
             <li>
-                <Link>Home</Link>
+                <Link onClick={() => scrollToSection("contactus")}>Contact Us</Link>
             </li>
         </>
     );

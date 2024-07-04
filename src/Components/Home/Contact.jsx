@@ -1,6 +1,6 @@
 const Contact = () => {
     return (
-        <div className="mx-auto container">
+        <div id="contactus" className="mx-auto container">
             <div className="py-12">
                 <h1 className="text-3xl text-center mb-10">Contact Us</h1>
                 <div className="flex items-center justify-center">
