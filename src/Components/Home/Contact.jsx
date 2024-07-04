@@ -1,6 +1,5 @@
 import { useRef } from "react";
 import emailjs from "@emailjs/browser";
-import { ToastContainer, toast } from "react-toastify";
 import Swal from "sweetalert2";
 
 const Contact = () => {
@@ -65,7 +64,6 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
-            <ToastContainer />
         </div>
     );
 };

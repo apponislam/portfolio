@@ -47,7 +47,7 @@ const Navbar = () => {
                     <ul className="menu menu-horizontal px-1 gap-2">{navlinks}</ul>
                 </div>
                 <div className="navbar-end">
-                    <a href="../src/assets/CV.pdf" target="_blank" className="btn bg-[#00203f] hover:bg-[#00203f] text-white ">
+                    <a href="/CV.pdf" target="_blank" className="btn bg-[#00203f] hover:bg-[#00203f] text-white ">
                         Download CV
                     </a>
                 </div>

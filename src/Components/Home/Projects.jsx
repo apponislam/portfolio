@@ -6,7 +6,7 @@ const Projects = () => {
 
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-3 mx-3 xl:mx-0">
                     <div className="border border-[#00203f] p-2 rounded-xl flex flex-col">
-                        <img className="w-full h-64 mb-3" src="../src/assets/project1.png" alt="" />
+                        <img className="w-full h-64 mb-3" src="/img/project1.png" alt="" />
                         <p className="mb-3">
                             Name:- <span className="font-bold">Painting and Drawing</span>
                         </p>
@@ -33,7 +33,7 @@ const Projects = () => {
                     </div>
 
                     <div className="border border-[#00203f] p-2 rounded-xl flex flex-col">
-                        <img className="w-full h-64 mb-3" src="../src/assets/project2.png" alt="" />
+                        <img className="w-full h-64 mb-3" src="/img/project2.png" alt="" />
                         <p className="mb-3">
                             Name:- <span className="font-bold">Appon Assignment</span>
                         </p>
@@ -60,7 +60,7 @@ const Projects = () => {
                     </div>
 
                     <div className="border border-[#00203f] p-2 rounded-xl flex flex-col">
-                        <img className="w-full h-64 mb-3" src="../src/assets/project3.png" alt="" />
+                        <img className="w-full h-64 mb-3" src="/img/project3.png" alt="" />
                         <p className="mb-3">
                             Name:- <span className="font-bold">Appon Classroom</span>
                         </p>

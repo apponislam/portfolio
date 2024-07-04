@@ -5,28 +5,28 @@ const Experienced = () => {
                 <h1 className="text-3xl text-center py-14">Experienced with</h1>
                 <div className="flex items-center justify-around flex-wrap gap-4">
                     <div className="flex items-center justify-center">
-                        <img className="w-auto h-20 md:h-36" src="../src/assets/html.png" />
+                        <img className="w-auto h-20 md:h-36" src="/img/html.png" />
                     </div>
                     <div className="flex items-center justify-center">
-                        <img className="w-auto h-20 md:h-36" src="../src/assets/css.png" />
+                        <img className="w-auto h-20 md:h-36" src="/img/css.png" />
                     </div>
                     <div className="flex items-center justify-center">
-                        <img className="w-auto h-20 md:h-36" src="../src/assets/javaScript.png" />
+                        <img className="w-auto h-20 md:h-36" src="/img/javaScript.png" />
                     </div>
                     <div className="flex items-center justify-center">
-                        <img className="w-auto h-20 md:h-36" src="../src/assets/react.png" />
+                        <img className="w-auto h-20 md:h-36" src="/img/react.png" />
                     </div>
                     <div>
-                        <img className="w-auto h-20 md:h-36" src="../src/assets/firebase.png" />
+                        <img className="w-auto h-20 md:h-36" src="/img/firebase.png" />
                     </div>
                     <div className="flex items-center justify-center">
-                        <img className="w-auto h-20 md:h-36" src="../src/assets/nodejs.png" />
+                        <img className="w-auto h-20 md:h-36" src="/img/nodejs.png" />
                     </div>
                     <div className="flex items-center justify-center">
-                        <img className="w-auto h-20 md:h-36" src="../src/assets/expressjs.png" />
+                        <img className="w-auto h-20 md:h-36" src="/img/expressjs.png" />
                     </div>
                     <div className="flex items-center justify-center">
-                        <img className="w-auto h-20 md:h-36" src="/../src/assets/mongodb.png" />
+                        <img className="w-auto h-20 md:h-36" src="/img/mongodb.png" />
                     </div>
                 </div>
             </div>
